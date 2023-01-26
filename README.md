@@ -109,29 +109,42 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: NANDHINI.E
+RegisterNumber: 22007762 
 */
+### TRUTHTABLE
 
 
+![sr truthtable](https://user-images.githubusercontent.com/121998147/214760743-bdf492e9-a76c-4830-9d62-41401fbc2c39.png)
 
+![Ttruthtable](https://user-images.githubusercontent.com/121998147/214760763-faf4fd46-1efd-4543-81a3-cf801d964900.png)
+![jk truthtable](https://user-images.githubusercontent.com/121998147/214760786-4009300a-2ec2-46af-bf49-5ac899e9e786.png)
+![Dtruthtable](https://user-images.githubusercontent.com/121998147/214760803-6fa40bc7-6505-4437-bd85-5f005770c097.png)
 
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
 
+![sr flipflop](https://user-images.githubusercontent.com/121998147/214760826-73f78196-1580-4999-aff2-b581a1fe24e1.png)
+
+![t flipflop](https://user-images.githubusercontent.com/121998147/214760845-d73191a9-0de2-4b1b-90b6-efded8eab93d.png)
+
+![jkflipflop](https://user-images.githubusercontent.com/121998147/214760863-dfb5de8e-e25a-453e-a635-1ef195a6bb73.png)
 
 
 
-
-
+![df flipflop](https://user-images.githubusercontent.com/121998147/214760889-7701ddee-ff9a-4a72-9f54-419aaf744731.png)
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
 
+![sr flipflop TD](https://user-images.githubusercontent.com/121998147/214760939-73849b3a-bc31-412a-a2ed-b06d4065a07f.png)
+![T timingdiagram](https://user-images.githubusercontent.com/121998147/214760950-2bcfaedf-2caa-4d22-9d40-0e27212e4384.png)
 
+![jk timingdiagram](https://user-images.githubusercontent.com/121998147/214760970-3a481c1c-f88f-4432-b53e-5e8b194d42f4.png)
+![df TD](https://user-images.githubusercontent.com/121998147/214760987-52eb9c90-d539-4fb9-9607-71c4a569f28d.png)
 
 
 
